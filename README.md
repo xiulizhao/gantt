@@ -1,5 +1,6 @@
 # gantt
 通过条状图来显示项目进度及其他时间相关的系统进展<br>
+<img src="http://www.wware.org/img/gante.png?_7d0e" width="600px"><br>
 普通属性<br>
 data-navigate	设置导航类型	buttons/scroll<br>
 data-scale	设置显示单元格	months/weeks/days/hours<br>
